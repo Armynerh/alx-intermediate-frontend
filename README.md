@@ -27,7 +27,7 @@
 # 📖 [alx-intermediate-frontend] <a name="about-project"></a>
 
 
-**[alx-intermediate-frontende]** is a project at alx built to test for semantic HTML.
+**[alx-intermediate-frontende]** is a project at alx built to test for semantic HTML and a hands-on exploration of Tailwind CSS.
 
 ## 🛠 Built With <a name="built-with"></a>
 
