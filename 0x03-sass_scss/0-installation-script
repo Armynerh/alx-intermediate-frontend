@@ -1,0 +1,4 @@
+Installed node using command :
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+closed terminal using exit command
+Ran npm install sass -v 3.7.4 
